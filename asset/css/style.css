@@ -784,4 +784,8 @@ footer .scroll-top a button:hover{
         font-size: clamp(3.5vw, 3.5vw, 4.5vw);
         padding-top: clamp(1.5vw, 2vw, 2.5vw);
     }
+
+    #scroll{
+        display: none;
+    }
 }
