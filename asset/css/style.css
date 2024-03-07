@@ -307,9 +307,30 @@ h2 {
         height: 100%;
         align-self: center;
     }
-    
+
+    .all-video-frames{
+        display: none;
+    }
 }
 
+@media screen and (max-width: 1299px) {
+    .all-video-frames{
+        display: block;
+        margin: 1.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 1.4rem;
+        margin-block: 2rem;
+    }
+
+    .all-video{
+        display: none !important;
+    }
+}
 
 
 .faq-container .faq-image {
@@ -361,7 +382,7 @@ h2 {
 }
 
 .faq-question p.show{
-    max-height: 200px;
+    max-height: 20rem;
     opacity: 1;
     padding: 30px 15px 30px 15px;
 
