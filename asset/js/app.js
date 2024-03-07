@@ -25,7 +25,6 @@ document.addEventListener("DOMContentLoaded", function() {
         cursorDot.style.left = `${posX}px`;
         cursorOutline.style.top = `${posY}px`;
         cursorOutline.style.left = `${posX}px`;
-        adjustCursor(e, cursorDot, cursorOutline);
     });
 
     // FAQ Section Toggle
