@@ -579,6 +579,8 @@ span.animate {
     transition: .7s ease-in-out;
 }
 
+.all-video-frames video
+
 .all-video video:not(:hover){
     filter: grayscale(1);
     transition: .7s ease-in-out;
@@ -697,9 +699,11 @@ footer img {
     /* margin: 2vw; */
 }
 
-#reseaux-footer a svg{
-    font-size: 3.5vw;
+#reseaux-footer a svg {
+    font-size: 1.9rem;
 }
+
+
 
 .profil-footer{
     font-size: 2rem;
@@ -789,8 +793,14 @@ footer .scroll-top a button:hover{
 
     .video-banniere{
        height: 100vh;
+       display: none;
     }
-
+    .profil-banniere{
+        width: 100%;
+        height: 100vh;
+        object-fit: cover;
+        margin-top: clamp(-18.5rem, -18.5vw, -14.5rem);
+    }
     #video-menu{
         width: clamp(15.5vw,26vw,26.5vw);
         height: clamp(5.5vw,7vw,7.5vw);
@@ -807,6 +817,12 @@ footer .scroll-top a button:hover{
     }
 
     #scroll{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1011px){
+    .profil-banniere{
         display: none;
     }
 }
