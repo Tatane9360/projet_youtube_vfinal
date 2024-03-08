@@ -560,6 +560,10 @@ span.animate {
     align-items: center;
 }
 
+.main_video iframe {
+    width: 100;
+}
+
 .all-video{
     margin: 1.5rem;
     display: flex;
@@ -578,7 +582,6 @@ span.animate {
     border-radius: 1rem;
     transition: .7s ease-in-out;
     filter: grayscale(1);
-
 }
 
 .all-video-frames video
