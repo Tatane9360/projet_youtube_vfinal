@@ -10,6 +10,6 @@ Relever le défi de créer une chaîne YouTube et son site web promotionnel en s
 4. **Concevoir un site web efficace :** Promouvoir la chaîne et ses contenus.
 
 ## Le résultat
-- **Une chaîne YouTube flambant neuve :** [HugoTrottoir] propose des vidéos de micro trottoirs musicales qui sauront vous divertir et vous informer.
+- **Une chaîne YouTube flambant neuve :** [HugoTrottoir](https://www.youtube.com/@Hugotrottoir) propose des vidéos de micro trottoirs musicales qui sauront vous divertir et vous informer.
 - **Un site web attractif :** [Lien vers le site web](https://tatane9360.github.io/projet_youtube_vfinal/) présente la chaîne, ses vidéos et ses créateurs.
 - **Une expérience enrichissante :** Un challenge intense qui a permis aux participants de développer leurs compétences en création de contenu, communication et travail d'équipe.
