@@ -1,7 +1,7 @@
 # Challenge YouTube : Mission accomplie en 5 jours chrono !
 
 ## Objectif
-Relever le défi de créer une chaîne YouTube et son site web promotionnel en seulement une semaine !
+Relever le défi de créer une chaîne YouTube et son site web promotionnel en seulement une semaine avec equipe constitué de développeur, UI/UX, DA...
 
 ## Le défi
 1. **Développer un concept original :** Trouver une idée de chaîne unique et captivante.
